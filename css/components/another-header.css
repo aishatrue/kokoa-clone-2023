@@ -1,0 +1,15 @@
+.another-header {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  padding: var(--horizantal-space);
+  padding-top: 50px;
+  align-items: center;
+  margin-bottom: 5px;
+  font-size: 25px;
+}
+
+.another-header i:last-child {
+  margin-left: 15px;
+}
